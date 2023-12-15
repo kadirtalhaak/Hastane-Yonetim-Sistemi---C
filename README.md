@@ -2,6 +2,8 @@
 
 Bu proje, C dilinde yazılmış bir hastane randevu ve raporlama sistemidir. Program, hasta ve doktor bilgileri yönetimi, randevu kayıtları oluşturma ve raporlama gibi temel işlevleri gerçekleştirir. Kullanıcılar, hastaları sisteme ekleyebilir, güncelleyebilir, silebilir ve listeyebilir. Ayrıca, doktorlar ve randevulara ilişkin raporlar oluşturulabilir.
 
+![Hastane Yönentim Sistemi Arayüzü]([https://i.hizliresim.com/4mi5ape.png])
+
 ## Özellikler
 
 - **Hasta Yönetimi**: Hastaları sistemde kaydedebilir, bilgilerini güncelleyebilir, silebilir ve listeyebilirsiniz.
